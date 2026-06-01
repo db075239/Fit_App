@@ -4,6 +4,9 @@
 Wellness Tracker is an interactive Streamlit dashboard for exploring health, fitness, lifestyle, and exercise data.  
 The app combines descriptive analytics, visual dashboards, workout performance analysis, personalized recommendations, clustering, predictive models, and a lifestyle impact simulator.
 
+The application is available on the next link:
+[Fit App](https://fitapp-dataanalysis.streamlit.app)
+
 ## Features
 
 ### Health Overview
